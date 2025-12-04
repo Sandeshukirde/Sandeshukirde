@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Sandesh Ukirde!
 
-<!--
-**Sandeshukirde/Sandeshukirde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 2nd Year B.Tech Computer Engineering Student
 
-Here are some ideas to get you started:
+Learning the basics of coding and building my foundation in computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 👨‍💻 Beginner programmer
+* 📘 Currently learning: C, Java, Data Structures basics
+* 🛠️ Working on small foundational projects
+* 🌱 Slowly exploring GitHub and improving my skills
+* 📍 Trying to learn something new every day
+
+---
+
+## 🔧 Technologies & Tools I'm Learning
+
+* Languages: C, Java, Python (basics)
+* Tools: VS Code, Git & GitHub
+* Future Interests: Problem Solving, Projects
+
+---
+
+## 📂 My GitHub Highlights
+
+* ✨ Simple beginner-friendly projects
+* 📘 Practice programs from college
+* 🚧 Repositories where I'm experimenting and learning
+
+---
+
+## 📈 My Goals
+
+* Build a strong coding foundation
+* Create more meaningful projects
+* Start competitive programming (soon!)
+* Improve problem-solving and logic
+
+---
+
+⭐ *Thanks for visiting my profile! More projects coming soon…*
