@@ -1,44 +1,71 @@
 # 👋 Hi, I'm Sandesh Ukirde!
 
-### 🎓 2nd Year B.Tech Computer Engineering Student
+### 🎓 Third-Year B.Tech Computer Engineering Student | Aspiring Software Engineer
 
-Learning the basics of coding and building my foundation in computer science.
+I'm a Computer Engineering student passionate about programming, problem-solving, and software development. Currently, I'm strengthening my programming fundamentals, learning Data Structures & Algorithms, and building projects to gain practical experience.
 
 ---
 
 ## 🚀 About Me
 
-* 👨‍💻 Beginner programmer
-* 📘 Currently learning: C, Java, Data Structures basics
-* 🛠️ Working on small foundational projects
-* 🌱 Slowly exploring GitHub and improving my skills
-* 📍 Trying to learn something new every day
+- 🎓 Pursuing B.Tech in Computer Engineering.
+- 👨‍💻 Learning Java, C, and Python.
+- 📚 Exploring Data Structures & Algorithms.
+- 🛠️ Building projects to improve my development skills.
+- 🌱 Continuously learning and exploring new technologies.
+- 🎯 Aspiring to become a Software Engineer.
 
 ---
 
-## 🔧 Technologies & Tools I'm Learning
+## 💻 Tech Stack & Tools
 
-* Languages: C, Java, Python (basics)
-* Tools: VS Code, Git & GitHub
-* Future Interests: Problem Solving, Projects
+**Programming Languages**
+- C
+- Java
+- Python
+- SQL
 
----
-
-## 📂 My GitHub Highlights
-
-* ✨ Simple beginner-friendly projects
-* 📘 Practice programs from college
-* 🚧 Repositories where I'm experimenting and learning
-
----
-
-## 📈 My Goals
-
-* Build a strong coding foundation
-* Create more meaningful projects
-* Start competitive programming (soon!)
-* Improve problem-solving and logic
+**Tools & Technologies**
+- Git & GitHub
+- VS Code
+- MySQL
+- HTML & CSS
 
 ---
 
-⭐ *Thanks for visiting my profile! More projects coming soon…*
+## 📂 What You'll Find Here
+
+- 💡 Programming practice and problem-solving.
+- 📘 Data Structures & Algorithms implementations.
+- 🛠️ Beginner-to-intermediate development projects.
+- 🚀 Academic and personal projects.
+- 📚 Learning experiments and code repositories.
+
+---
+
+## 🎯 Current Goals
+
+- Strengthen Java programming fundamentals.
+- Master Data Structures & Algorithms.
+- Improve problem-solving skills.
+- Learn SQL and Database Management Systems.
+- Explore Backend Development with Spring Boot.
+- Build real-world software development projects.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandeshukirde&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeshukirde&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+- 💻 GitHub: [@Sandeshukirde](https://github.com/Sandeshukirde)
+
+---
+
+⭐ *Always learning, always building, and improving one commit at a time!*
