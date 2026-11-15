@@ -54,14 +54,6 @@ I'm a Computer Engineering student passionate about programming, problem-solving
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandeshukirde&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeshukirde&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🤝 Connect With Me
 
 - 💻 GitHub: [@Sandeshukirde](https://github.com/Sandeshukirde)
